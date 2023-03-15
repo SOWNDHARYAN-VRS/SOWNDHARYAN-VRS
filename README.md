@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm sowndharyan</h1>
-<h3 align="center">I am passionate towards programming and app development</h3>
+<h3 align="center">I am passionate towards programming,cloud and web development </h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 <br>
 - 🔭 I’m currently working on project-tool
 
-- 🌱 I’m currently learning **flutter,python,microsoft azure**
+- 🌱 I’m currently learning **dotnet,c #,microsoft azure**
 
 - 💬 Ask me about **Ethical hacking and Cyber security**
 
