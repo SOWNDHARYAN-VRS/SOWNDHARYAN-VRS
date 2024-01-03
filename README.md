@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm SOWNDHARYAN</h1>
 <h3 align="center">A passionate Java backend developer</h3>
 
-- 🔭 I’m currently working on **Streamify**
+- 🔭 I’m currently working as **Backend developer intern**
 
 - 🌱 I’m currently learning **Flutter and Spring Boot**
 
