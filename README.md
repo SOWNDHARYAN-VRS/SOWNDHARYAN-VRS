@@ -1,9 +1,9 @@
 <h1 align="center">Hi,I'm SOWNDHARYAN</h1>
 <h3 align="center">A passionate Java backend developer</h3>
 
-- 🔭 I’m currently working as **Backend developer intern**
+- 🔭 I’m currently working as **Backend developer**
 
-- 🌱 I’m currently learning **Flutter and Spring Boot**
+- 🌱 I’m currently learning **Flutter , Spring Boot and NestJs**
 
 - 📫 How to reach me **sowndher2002@gmail.com**
 
