@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working as **Backend developer**
 
-- 🌱 I’m currently learning **Flutter , Spring Boot and NestJs**
+- 🌱 I’m currently learning **Flutter and go**
+
+- 🌱 I’m have experience in **Java , Spring Boot , Typescript and NestJs**
 
 - 📫 How to reach me **sowndher2002@gmail.com**
 
