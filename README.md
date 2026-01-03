@@ -15,7 +15,3 @@ I build **AI agents and agentic workflows** for real products, with a focus on *
 
 **Previously**
 - Exposure to **Java, Spring, and SQL**
-
-**Contact**
-- Email: sowndher2002@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sowndharyanvrs
